@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 int main(){
-    cout<<"Hello World"<<endl;
+    cout<<"Choke te pani dhaal\nHalf glass carew"<<endl;
     return 0;
 }
